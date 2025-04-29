@@ -6,5 +6,5 @@ using Provider logic
 
 
 
-<img src="flutter_03.png" alt="Example Image" width="300" height="400">
-<img src="flutter_01.png" alt="Example Image" width="300" height="400">
+<img src="flutter_03.png" alt="Example Image" width="300" height="600">
+<img src="flutter_01.png" alt="Example Image" width="300" height="600">
