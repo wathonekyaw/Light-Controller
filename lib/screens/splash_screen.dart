@@ -18,6 +18,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
   Future<void> loadData() async {
     final light = Provider.of<Light>(context, listen: false);
+    await Future.delayed(Duration(seconds: 3));
     await light.loadFromPrefs();
     Navigator.of(
       context,
