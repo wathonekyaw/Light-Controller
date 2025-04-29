@@ -1,23 +1,10 @@
 # light_controller
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+light-controller
 
 A practice simple app that can control brightness , color and store it in local storage
 using Provider logic
 
 
-![splash screen](flutter_03.png)
-![light controller ](flutter_01.png)
+
+<img src="flutter_03.png" alt="Example Image" width="300" height="200">
+<img src="flutter_01.png" alt="Example Image" width="300" height="200">
